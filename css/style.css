@@ -35,13 +35,13 @@ html, body {
 .custom-navbar .navbar-nav > li > a:hover,
 .custom-navbar .navbar-nav > li > a:focus {
   background-color: transparent;
-  color: #ff6a6a;
+  color: #465c3c;
 }
 .custom-navbar .navbar-nav > li > a.active {
   background-color: transparent;
-  color: #ff6a6a;
+  color: #465c3c;
   font-weight: bold;
-  border-bottom: 2px solid #ff6a6a;
+  border-bottom: 2px solid #465c3c;
 }
 .custom-navbar .navbar-toggle {
   border: none;
@@ -51,7 +51,7 @@ html, body {
   background-color: transparent;
 }
 .custom-navbar .navbar-toggle .icon-bar {
-  background: #ff6a6a;
+  background: #465c3c;
   border-color: transparent;
 }
 
