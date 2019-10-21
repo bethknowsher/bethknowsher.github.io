@@ -59,7 +59,7 @@ html, body {
 
 #home {
   position: relative;
-  background-color: #73bdb4
+  background-color: #618255;
   height: 100%;
   background-size: cover;
   z-index: 1;
@@ -87,7 +87,7 @@ html, body {
   /* About */
 
 #about {
-  background-color: #30916c;
+  background-color: #315922;
 }
 
 #about .social a {
