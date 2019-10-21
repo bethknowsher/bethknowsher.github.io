@@ -198,9 +198,7 @@ p{
 
 #contact {
   background-color: #3a4a3e;
-  background-attachment: fixed;
-  background-size: cover;
-  position: relative;
+  position: center;
   z-index: 1;
   padding: 100px 0px;
   color: #fff;
@@ -209,15 +207,13 @@ p{
   margin: 0;
   font-weight: bold;
 }
-#contact h4 {
-  margin: 20px 0 30px 0;
-}
+
 #contact .contact-btn {
   font-size: 18px;
   font-weight: bold;
   padding: 10px 30px;
   color: #fff;
-  background-color: #3a4a3e;
+  background-color: #5f635d;
   border-radius: 25px;
 }
 #contact.contact-btn:hover {
