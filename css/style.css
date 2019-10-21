@@ -65,6 +65,14 @@ html, body {
   z-index: 1;
 }
 
+#home .text {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  top: 35%;
+}
+
 .bouncing-icon {
   position: absolute;
   left: 50%;
