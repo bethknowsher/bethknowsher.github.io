@@ -97,6 +97,8 @@ p{
   background-color: #618255;
   height: 100%;
   background-size: cover;
+  background-image: url("ewok.png");
+  background-repeat: no-repeat;
   z-index: 1;
 }
 
@@ -125,7 +127,7 @@ p{
 }
 .bouncing-icon:hover {
   background: none;
-  color: #ff6a6a;
+  color: #53755b;
 }
 
   /* About */
