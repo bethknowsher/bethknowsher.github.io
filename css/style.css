@@ -42,14 +42,14 @@ p{
 .custom-navbar {
   border: none;
   margin-bottom: 0;
-  background-color: transparent;
+  background-color: #000;
   padding: 5px 0px;
   -webkit-transition: all .5s ease-in-out;
   -moz-transition: all .5s ease-in-out;
   transition: all .5s ease-in-out;
 }
 .scroll {
-  background-color: #111 !important;
+  background-color: #111; 
 }
 .custom-navbar .navbar-brand {
   color: #fff;
@@ -67,11 +67,11 @@ p{
 }
 .custom-navbar .navbar-nav > li > a:hover,
 .custom-navbar .navbar-nav > li > a:focus {
-  background-color: transparent;
+  background-color: #000;
   color: #465c3c;
 }
 .custom-navbar .navbar-nav > li > a.active {
-  background-color: transparent;
+  background-color: #000;
   color: #465c3c;
   font-weight: bold;
   border-bottom: 2px solid #465c3c;
@@ -81,7 +81,7 @@ p{
   padding-top: 10px;
 }
 .custom-navbar .navbar-toggle {
-  background-color: transparent;
+  background-color: #000;
 }
 .custom-navbar .navbar-toggle .icon-bar {
   background: #465c3c;
