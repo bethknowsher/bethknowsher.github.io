@@ -141,4 +141,5 @@ html, body {
 /* Skills */ 
 #skill {
   background-color: #fff;
+  position: center; 
 }
