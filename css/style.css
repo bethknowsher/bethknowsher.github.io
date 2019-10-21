@@ -1,1 +1,95 @@
+html, body {
+  min-height: 100%;
+  overflow-x: hidden;
+  font-family: 'Roboto', sans-serif;
+}
 
+  /* NavBar */
+
+.custom-navbar {
+  border: none;
+  margin-bottom: 0;
+  background-color: transparent;
+  padding: 5px 0px;
+  -webkit-transition: all .5s ease-in-out;
+  -moz-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
+}
+.scroll {
+  background-color: #111 !important;
+}
+.custom-navbar .navbar-brand {
+  color: #fff;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 35px;
+}
+.custom-navbar .nav li a {
+  font-size: 14px;
+  line-height: 1;
+  color: #fff;
+  padding-right: 20px;
+  letter-spacing: 1px;
+  font-weight: 500;
+}
+.custom-navbar .navbar-nav > li > a:hover,
+.custom-navbar .navbar-nav > li > a:focus {
+  background-color: transparent;
+  color: #ff6a6a;
+}
+.custom-navbar .navbar-nav > li > a.active {
+  background-color: transparent;
+  color: #ff6a6a;
+  font-weight: bold;
+  border-bottom: 2px solid #ff6a6a;
+}
+.custom-navbar .navbar-toggle {
+  border: none;
+  padding-top: 10px;
+}
+.custom-navbar .navbar-toggle {
+  background-color: transparent;
+}
+.custom-navbar .navbar-toggle .icon-bar {
+  background: #ff6a6a;
+  border-color: transparent;
+}
+
+/* Home */ 
+
+#home {
+  position: relative;
+  background: url(../images/background-1.jpg) no-repeat center center;
+  height: 100%;
+  background-size: cover;
+  z-index: 1;
+}
+#home .text {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  top: 35%;
+}
+.typed-cursor, .element {
+  display: inline-block;
+  font-weight: bold;
+}
+.bouncing-icon {
+  position: absolute;
+  left: 50%;
+  margin-left: -25px;
+  bottom: 100px;
+  width: 50px;
+  -webkit-animation: 3s ease 0s normal none infinite running bounce;
+  animation: 3s ease 0s normal none infinite running bounce;
+  color: #fff;
+  font-size: 40px;
+  text-align: center;
+  -webkit-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;
+}
+.bouncing-icon:hover {
+  background: none;
+  color: #ff6a6a;
+}
