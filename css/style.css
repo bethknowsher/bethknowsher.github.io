@@ -47,6 +47,7 @@ p{
   -webkit-transition: all .5s ease-in-out;
   -moz-transition: all .5s ease-in-out;
   transition: all .5s ease-in-out;
+  float: left;
 }
 .scroll {
   background-color: #111; 
@@ -56,11 +57,6 @@ p{
   font-weight: bold;
   font-size: 3rem;
   line-height: 35px;
-}
-
-
-.custom-navbar .nav li {
-  float: left;
 }
 
 .custom-navbar .nav li a {
@@ -102,6 +98,7 @@ p{
   height: 100%;
   background-size: cover;
   z-index: 1;
+  padding: 0px;
 }
 
 #home .text {
@@ -176,7 +173,7 @@ p{
   font-size: 16px;
   text-align: left;
   line-height: 28px;
-  font-color: #000;
+  color: #000;
 }
 #about .download-resume {
   margin: 40px 0px 60px 0px;
@@ -197,14 +194,14 @@ p{
 
 /* Skills */ 
 #skill {
-  background-color: #fff;
+  background-color: #394733;
   position: center; 
 }
 
 /* Contact */
 
 #contact {
-  background-color: #3a4a3e;
+  background-color:#253629 ;
   position: center;
   z-index: 1;
   padding: 100px 0px;
