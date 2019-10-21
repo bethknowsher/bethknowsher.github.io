@@ -123,7 +123,8 @@ html, body {
 }
 #about .social a i{
   display: table-cell;
-  vertical-align: middle;  
+  vertical-align: middle;
+  horizontal-align: middle;
 }
 #about .social a:hover {
   background: #5f635d;
