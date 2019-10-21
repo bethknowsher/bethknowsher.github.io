@@ -99,7 +99,7 @@ html, body {
 }
 
 #about img {
-  width: 450px;
+  width: 250px;
   margin: auto;
   box-shadow: 0 0 20px #ddd;
   -webkit-box-shadow: 0 0 20px #ddd;
@@ -117,7 +117,7 @@ html, body {
 }
 #about .social a i{
   display: table-cell;
-  vertical-align: middle;
+ align: middle;  
 }
 #about .social a:hover {
   background: #5f635d;
