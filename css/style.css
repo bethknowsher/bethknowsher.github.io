@@ -4,6 +4,12 @@ html, body {
   font-family: 'Roboto', sans-serif;
 }
 
+.heading {
+  padding: 60px 0px;
+  text-align: center;
+  overflow: hidden;
+}
+
   /* NavBar */
 
 .custom-navbar {
