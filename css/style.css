@@ -192,3 +192,34 @@ p{
   background-color: #fff;
   position: center; 
 }
+
+/* Contact */
+
+#contact {
+  background-color: #3a4a3e;
+  background-attachment: fixed;
+  background-size: cover;
+  position: relative;
+  z-index: 1;
+  padding: 100px 0px;
+  color: #fff;
+}
+#contact h1 {
+  margin: 0;
+  font-weight: bold;
+}
+#contact h4 {
+  margin: 20px 0 30px 0;
+}
+#contact .contact-btn {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 30px;
+  color: #fff;
+  background-color: #3a4a3e;
+  border-radius: 25px;
+}
+#contact.contact-btn:hover {
+  text-decoration: none;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
