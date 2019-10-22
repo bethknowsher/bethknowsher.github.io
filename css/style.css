@@ -209,6 +209,14 @@ p{
   position: center; 
 }
 
+/* Projects */ 
+#project {
+  background-color: #324a38;
+  position: center; 
+  text-align: center;
+}
+
+
 /* Contact */
 
 #contact {
