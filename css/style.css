@@ -59,6 +59,15 @@ p{
   line-height: 35px;
 }
 
+.custom-navbar .nav li {
+  display: inline;
+}
+
+.custom-navbar .nav ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
 .custom-navbar .nav li a {
   font-size: 14px;
   line-height: 1;
