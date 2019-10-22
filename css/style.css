@@ -210,7 +210,7 @@ p{
 
 /* Projects */ 
 #project {
-  background-color: #324a38;
+  background-color: #2d4533;
   position: center; 
   text-align: center;
 }
@@ -219,7 +219,7 @@ p{
 /* Contact */
 
 #contact {
-  background-color:#253629 ;
+  background-color:#1a291e ;
   position: center;
   z-index: 1;
   padding: 100px 0px;
