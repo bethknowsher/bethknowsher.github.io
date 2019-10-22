@@ -213,7 +213,6 @@ p{
   background-color: #2d4533;
   position: center; 
   text-align: center;
-  padding: 0px;
 }
 
 
@@ -224,7 +223,7 @@ p{
   position: center;
   z-index: 1;
   color: #fff;
-  padding: 100px
+ 
 }
 #contact h1 {
   margin: 0;
