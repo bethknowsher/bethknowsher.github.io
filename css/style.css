@@ -189,6 +189,10 @@ p{
   color: #fff;
 }
 
+#skill-list {
+ align: center;  
+}
+
 /* Portfolio */ 
 #portfolio {
   background-color: #2d4533;
