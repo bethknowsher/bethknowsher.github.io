@@ -8,7 +8,7 @@ html, body {
   color: #465c3c;
 }
 .heading {
-  padding: 0px 0px;
+  padding: 50px 0px;
   text-align: center;
   overflow: hidden;
 }
@@ -213,6 +213,7 @@ p{
   background-color: #2d4533;
   position: center; 
   text-align: center;
+  padding: 0px;
 }
 
 
