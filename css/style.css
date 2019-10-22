@@ -188,10 +188,11 @@ p{
   background-color: #3f5c46;
   position: center; 
   color: #fff;
+  align-text: center;
 }
 
 #skill .skill-list {
-  align-text: center
+  display: inline-block;
 }
 
 /* Portfolio */ 
