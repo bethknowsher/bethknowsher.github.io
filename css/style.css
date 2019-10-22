@@ -128,9 +128,10 @@ p{
 }
 
 #about img {
-  width: 250px;
-  margin: auto;
-  position: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
 #about .social a {
   width: 32px;
@@ -190,7 +191,7 @@ p{
 }
 
 #skill-list {
- align: center;  
+ text-align: center;  
 }
 
 /* Portfolio */ 
