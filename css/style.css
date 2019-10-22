@@ -23,7 +23,7 @@ hr {
   position: relative;
   text-align: center;
   margin: 10px auto;
-  background-color: #000;
+  background-color: #fff;
 }
 .subtitle {
   text-align: center;
@@ -124,14 +124,13 @@ p{
 
 #about {
   background-color: #53755b;
+  color: #fff
 }
 
 #about img {
   width: 250px;
   margin: auto;
-  box-shadow: 0 0 20px #ddd;
-  -webkit-box-shadow: 0 0 20px #ddd;
-  -moz-box-shadow: 0 0 20px #ddd;
+  position: center;
 }
 #about .social a {
   width: 32px;
@@ -161,10 +160,10 @@ p{
 }
 #about .about_bg p{
   padding-top: 15px;  
-  font-size: 16px;
+  font-size: 25px;
   text-align: left;
   line-height: 28px;
- color: #fff;
+  color: #fff;
 }
 #about .download-resume {
   margin: 40px 0px 60px 0px;
