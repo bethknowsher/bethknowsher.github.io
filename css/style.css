@@ -107,8 +107,7 @@ p{
   background-color: #618255;
   height: 100%;
   background-size: cover;
-  background-image: url("ewok.png");
-  background-repeat: no-repeat;
+  background: url(../images/ewok.jpg) no-repeat center center;
   z-index: 1;
 }
 
