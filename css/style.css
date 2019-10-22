@@ -59,16 +59,7 @@ p{
   line-height: 35px;
 }
 
-.custom-navbar .nav li {
-  display: inline;
-}
 
-.custom-navbar .nav ul {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  width: 100%;
-}
 .custom-navbar .nav li a {
   font-size: 14px;
   line-height: 1;
@@ -180,7 +171,7 @@ p{
   font-weight: bold;
 }
 #about .about_bg p{
-  padding-top: 15px;  
+  padding-top: 10px;  
   font-size: 25px;
   text-align: left;
   line-height: 28px;
