@@ -99,29 +99,6 @@ p{
 }
 
 
-.typed-cursor, .element {
-  display: inline-block;
-  font-weight: bold;
-}
-.bouncing-icon {
-  position: absolute;
-  left: 50%;
-  margin-left: -25px;
-  bottom: 100px;
-  width: 50px;
-  -webkit-animation: 3s ease 0s normal none infinite running bounce;
-  animation: 3s ease 0s normal none infinite running bounce;
-  color: #fff;
-  font-size: 40px;
-  text-align: center;
-  -webkit-transition: all 0.4s ease 0s;
-  transition: all 0.4s ease 0s;
-}
-.bouncing-icon:hover {
-  background: none;
-  color: #53755b;
-}
-
   /* About */
 
 #about {
