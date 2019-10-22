@@ -190,7 +190,7 @@ p{
   color: #fff;
 }
 
-#skill-list {
+#skill .skill-list {
   display: -webkit-flex; /* Safari */
   -webkit-align-items: center; /* Safari 7.0+ */
   display: flex;
