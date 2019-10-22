@@ -95,15 +95,9 @@ p{
 #home {
   background-color: #6b9976;
   color: #fff;
+  height: 200px;
 }
-#home .text {
-  position: absolute;
-  width: 100%;
-  text-align: center;
-  color: #fff;
-  top: 35%;
-  font-family: 'Overlock SC'
-}
+
 
 .typed-cursor, .element {
   display: inline-block;
