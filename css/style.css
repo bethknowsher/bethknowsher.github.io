@@ -94,7 +94,7 @@ p{
 /* Home */ 
 #home {
   position: relative;
-  background: url(../images/ewok.png) no-repeat center center;
+  background-color: #6b9976;
   height: 100%;
   background-size: cover;
   z-index: 1;
@@ -199,7 +199,6 @@ p{
   background-color: #3f5c46;
   position: center; 
   color: #fff;
-  align-text: center;
 }
 
 #skill .skill-list {
