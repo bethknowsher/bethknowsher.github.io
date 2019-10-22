@@ -208,8 +208,8 @@ p{
   position: center; 
 }
 
-/* Projects */ 
-#project {
+/* Portfolio */ 
+#portfolio {
   background-color: #2d4533;
   position: center; 
   text-align: center;
@@ -223,7 +223,6 @@ p{
   background-color:#1a291e ;
   position: center;
   z-index: 1;
-  padding: 0px;
   color: #fff;
 }
 #contact h1 {
