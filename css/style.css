@@ -168,9 +168,22 @@ p{
   color: #fff;
 }
 
-#skill .skill-list {
-  text-align: center;
-}
+#skill .wrapper {
+        text-align: center;
+    }
+    #skill .wrapper ul {
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+        /* For IE, the outcast */
+        zoom:1;
+        *display: inline;
+    }
+   #skill .wrapper li {
+        float: left;
+        padding: 2px 5px;
+        border: 1px solid black;
+    }
 
 /* Portfolio */ 
 #portfolio {
