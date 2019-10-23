@@ -170,7 +170,7 @@ p{
 }
 
 #skill .skill-list {
-  display: inline-block;
+  float: right;
 }
 
 /* Portfolio */ 
