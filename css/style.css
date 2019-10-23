@@ -96,7 +96,7 @@ p{
   background-color: #6b9976;
   color: #fff;
   height: 200px;
-  padding-top: 70px;
+  padding-top: 40px;
 }
 
   /* About */
@@ -165,12 +165,11 @@ p{
 /* Skills */ 
 #skill {
   background-color: #3f5c46;
-  position: center; 
   color: #fff;
 }
 
 #skill .skill-list {
-  float: right;
+  text-align: center;
 }
 
 /* Portfolio */ 
