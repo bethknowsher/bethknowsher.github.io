@@ -168,9 +168,9 @@ p{
   color: #fff;
 }
 
-#skill .wrapper {
-  display: flex;
-  justify-content: center;
+#skill .img {
+  height: auto;
+  width: 50px;
   
 }
 
