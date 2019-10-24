@@ -140,14 +140,11 @@ p{
 #skill {
   background-color: #3f5c46;
   color: #fff;
-  align: center;
 }
 
 #skill .skillimg {
  height:100px;
  width:100%;
- grayscale: 100%;
- 
 }
 
 /* Portfolio */ 
