@@ -172,6 +172,7 @@ p{
 #skill .skillimg {
   height: auto;
   max-width: 50px;
+  grayscale: 100%;
   
 }
 
