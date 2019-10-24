@@ -140,11 +140,17 @@ p{
 #skill {
   background-color: #3f5c46;
   color: #fff;
+  text-align:center;
 }
 
-#skill i {
- font-size: 50px;
- text-align: center;
+#skill .fab {
+    display:inline-block;
+    vertical-align:middle;
+    height: 52px;
+    line-height: 44px;
+    width: 52px;
+    margin:20px 5px;
+
 }
 
 /* Portfolio */ 
