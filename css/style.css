@@ -166,13 +166,12 @@ p{
 #skill {
   background-color: #3f5c46;
   color: #fff;
-  height: 300px;
   overflow: hidden;
 }
 
 #skill .skillimg {
   height: auto;
-  width: 100%;
+  max-width: 50px;
   
 }
 
